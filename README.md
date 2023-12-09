@@ -1,15 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Hazzaj Anik
+#### I am MERN stack developer.
+![I am MERN stack developer.](https://i.ibb.co/PNhgJxX/Teal-Futuristic-Technology-Facebook-Cover.png)
 
-<!--
-**hazzajanik/hazzajanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Hazzaj Anik, a passionate Front-End-Developer. I develop web applications. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world.I am available for any kind of job opportunity that suits my interests.  
 
-Here are some ideas to get you started:
+##### My skills :
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-####### hlw profile what's your name 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzajanik&show_icons=true) 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hazzajanik)  
+
